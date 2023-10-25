@@ -71,8 +71,8 @@ require (
 	github.com/spf13/cast v1.3.1 // indirect
 	golang.org/x/sync v0.1.0 // indirect
 	golang.org/x/tools/cmd/cover v0.1.0-deprecated // indirect
-	google.golang.org/genproto v0.0.0-20220617124728-180714bec0ad // indirect
-	google.golang.org/grpc v1.47.0 // indirect
+	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1 // indirect
+	google.golang.org/grpc v1.56.3 // indirect
 	sigs.k8s.io/yaml v1.3.0 // indirect
 )
 
